@@ -1,7 +1,10 @@
 A1
 B2
-D
-EE
+D3
+EE4
 F
 H
 G
+x
+y
+z
