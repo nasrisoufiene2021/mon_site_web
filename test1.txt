@@ -1,7 +1,7 @@
-A1
-B2
-D3
-EE4
+A
+B
+D
+E
 F
 H
 G
